@@ -1,5 +1,5 @@
 # Streaming Bundle
 
-### How to run
+### How To Run
 
 ### Testing
